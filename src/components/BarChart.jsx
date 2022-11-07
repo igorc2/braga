@@ -37,6 +37,11 @@ const BarChart = () => {
             text: {
               fill: colors.grey[100],
             }
+          },
+          tooltip: {
+            container: {
+              color:  '#333',
+            }
           }
         }}
         keys={[

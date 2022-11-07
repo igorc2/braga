@@ -40,7 +40,7 @@ const LineChart = ({ isDashboard = false }) => {
           },
           tooltip: {
             container: {
-              color: colors.primary[500],
+              color: '#333',
             }
           }
         }
